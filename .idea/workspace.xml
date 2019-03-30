@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dfbb2c9-0a4c-4651-bc46-776fef1a9e61" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/offer/foundation/class5/Lowest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/offer/foundation/class5/LowestCost.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/CatDogQueue$Cat.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/CatDogQueue$CatDog.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/CatDogQueue$Dog.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/CatDogQueue$Pet.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/CatDogQueue.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/MyStack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/PrintMatrix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/PrintZigMatrix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/QueueWithArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/ReverseDoubleLinkedLsit$DoubleNode.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/ReverseDoubleLinkedLsit.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/ReverseLinkedList$Node.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/ReverseLinkedList.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/RotateMatrix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/SearchInSortedMatrix.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/StackWithArray.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/TwoQueueWithStack.class" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/out/production/zuoshen/com/offer/class3/TwoStackWithQueue.class" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -331,7 +311,7 @@
       <workItem from="1553736491829" duration="16472000" />
       <workItem from="1553780790218" duration="1231000" />
       <workItem from="1553842526138" duration="10110000" />
-      <workItem from="1553912657299" duration="5809000" />
+      <workItem from="1553912657299" duration="5981000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1553678501002</created>
@@ -344,7 +324,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39874000" />
+    <option name="totallyTimeSpent" value="40046000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
