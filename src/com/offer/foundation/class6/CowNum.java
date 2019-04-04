@@ -34,7 +34,6 @@ public class CowNum {
         }
     }
 
-
     // 测试
     public static void main(String[] args) {
         int num = cowNum2(11);
